@@ -2,11 +2,11 @@
 
 este proyecto es para montar un teamplate con materialize desde 0
 
-## Plugins usandos
+## Plugins used
 
 ### Scrollspy, Material Box, Slider and Sidenav
 
-## Recursos
+## Resources
 
 [Material Desing](https://materializecss.com).
 
