@@ -1,6 +1,6 @@
 # Template Utilizando material Design
 
-este proyecto es para montar un teamplate con materialize desde 0
+Este proyecto es para montar un teamplate con materialize desde 0
 
 ## Plugins used
 
